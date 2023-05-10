@@ -92,8 +92,7 @@ Using toggle bottun to change into a dark mode or light mode
 
 ### Useful resources
 
-- [Example resource 1](https://frontendmentor.io) - This helped me with the resources needed to design this card
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [https://frontendmentor.io] - This helped me with the resources needed to design this card
 
 ## Author
 
