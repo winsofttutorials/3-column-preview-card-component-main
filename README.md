@@ -43,8 +43,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/winsofttutorials/3-column-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://winsofttutorials.github.io/3-column-preview-card-component-main/)
+- Solution URL: [https://github.com/winsofttutorials/3-column-preview-card-component-main.git]
+- Live Site URL: [https://winsofttutorials.github.io/3-column-preview-card-component-main/]
 
 ## My process
 
